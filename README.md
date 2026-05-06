@@ -1,16 +1,35 @@
-## Hi there 👋
+# hi, i'm ebi! 👋
+### 2nd-year Informatics Engineering Student | Aspiring AI Engineer
 
-<!--
-**febriantidl/febriantidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently focused on bridging the gap between data and intelligent solutions. Building my path through D3 Informatics Engineering while diving deep into the world of Artificial Intelligence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 my journey to AI
+- 🔭 currently exploring: **Machine Learning & Deep Learning**
+- ⚡ learning: **Python for Data Science, Neural Networks, and NLP**
+- 🌱 goal: building efficient AI models that solve real-world problems.
+- 💬 ask me about: why I chose the "skill, money, brand" career path!
+
+---
+
+### 🛠 tech stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### 📊 github stats
+![Ebi's GitHub stats](https://github-readme-stats.vercel.app/api?username=febriantidl&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=febriantidl&layout=compact&theme=radical)
+
+---
+
+### 📈 what i'm working on
+- [ ] mastering SQL for data manipulation
+- [ ] building a sentiment analysis project
+- [ ] creating an image classification model
