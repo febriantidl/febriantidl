@@ -1,41 +1,31 @@
-# hi, i'm ebi! 👋
-### 2nd-year Informatics Engineering Student | Aspiring AI Engineer
-
-I'm currently focused on bridging the gap between data and intelligent solutions. Building my path through D3 Informatics Engineering while diving deep into the world of Artificial Intelligence.
+# febrianti dewi.
+### informatics engineering student & aspiring ai engineer
 
 ---
 
-### 🚀 my journey to AI
-- 🔭 currently exploring: **Machine Learning & Deep Learning**
-- ⚡ learning: **Python for Data Science, Neural Networks, and NLP**
-- 🌱 goal: building efficient AI models that solve real-world problems.
-- 💬 ask me about: why I chose the "skill, money, brand" career path!
+###  /about
+i'm a 2nd-year student at **d3 informatics engineering**, focused on building intelligent systems and efficient code. currently diving deep into machine learning while maintaining a high standard for clean, minimal design.
 
 ---
 
-### 🛠 tech stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🛠 /tech_stack
+> **languages & tools**
+> `python` • `java` • `pytorch` • `tensorflow` • `sql` • `git`
 
 ---
 
-### 📊 github stats
+### 📈 /stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febriantidl&theme=radical" alt="febriantidl streak stats" />
+  <img src="https://github-readme-stats-git-masterhsthy.vercel.app/api?username=febriantidl&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" height="150" />
+  <img src="https://github-readme-stats-git-masterhsthy.vercel.app/api/top-langs/?username=febriantidl&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999" height="150" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=febriantidl&theme=radical" alt="febriantidl details" />
-</p>
-
-<img src="https://github-readme-stats-git-masterhsthy.vercel.app/api/top-langs/?username=febriantidl&layout=compact&theme=radical" />
 ---
 
-### 📈 what i'm working on
-- [ ] mastering SQL for data manipulation
-- [ ] building a sentiment analysis project
-- [ ] creating an image classification model
+### 📬 /connect
+[linkedin](https://linkedin.com/in/febriantidl) • [instagram](https://instagram.com/kiddiepagee) • [email](mailto:febriantidlestari@gmail.com)
+
+---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=stay_hungry_stay_foolish" />
+</p>
