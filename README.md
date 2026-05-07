@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=200&section=header&text=FEBRIANTI%20DEWI&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=200&section=header&text=FEBRIANTI%20&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Header" />
 </p>
 
 # 👋 Hi, I'm Febrianti.
