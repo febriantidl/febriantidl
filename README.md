@@ -1,31 +1,43 @@
-# febrianti dewi.
-### informatics engineering student & aspiring ai engineer
+# Febrianti Dewi Lestari
+**Informatics Engineering @ D3 | Aspiring AI Engineer**
 
 ---
 
-###  /about
-i'm a 2nd-year student at **d3 informatics engineering**, focused on building intelligent systems and efficient code. currently diving deep into machine learning while maintaining a high standard for clean, minimal design.
+### / Executive Summary
+2nd-year Informatics Engineering student dedicated to mastering the end-to-end lifecycle of **Artificial Intelligence**. I bridge the gap between structured software development and intelligent data-driven solutions.
 
 ---
 
-### 🛠 /tech_stack
-> **languages & tools**
-> `python` • `java` • `pytorch` • `tensorflow` • `sql` • `git`
+### / Technical Stack
+* **Languages:** `Python` • `Java` • `SQL (PostgreSQL)`
+* **AI/ML Frameworks:** `PyTorch` • `TensorFlow` • `Scikit-Learn` • `OpenCV`
+* **Data Engineering:** `Pandas` • `NumPy` • `Matplotlib`
+* **Tools:** `Git` • `Linux` • `Docker`
 
 ---
 
-### 📈 /stats
+### / Featured Project
+**BeautyHub**
+> *Personalized Skincare Intelligence Platform*
+> 
+> Developing a robust platform designed to bridge beauty consumers with data-driven skincare solutions. Currently focusing on optimizing the database architecture and preparing for **ML-based skin type classification** integration.
+> 
+> `Java` `SQL` `Project Architecture`
+
+---
+
+### / Engineering Insights
 <p align="left">
-  <img src="https://github-readme-stats-git-masterhsthy.vercel.app/api?username=febriantidl&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" height="150" />
-  <img src="https://github-readme-stats-git-masterhsthy.vercel.app/api/top-langs/?username=febriantidl&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999" height="150" />
+  <img src="https://github-readme-stats-git-masterhsthy.vercel.app/api?username=febriantidl&show_icons=true&theme=transparent&hide_border=true&title_color=2f3136&icon_color=007AFF&text_color=444444" height="150" />
+  <img src="https://github-readme-stats-git-masterhsthy.vercel.app/api/top-langs/?username=febriantidl&layout=compact&theme=transparent&hide_border=true&title_color=2f3136&text_color=444444" height="150" />
 </p>
 
 ---
 
-### 📬 /connect
-[linkedin](https://linkedin.com/in/febriantidl) • [instagram](https://instagram.com/kiddiepagee) • [email](mailto:febriantidlestari@gmail.com)
+### / Connect
+[LinkedIn](https://linkedin.com/in/febriantidl) • [Instagram](https://instagram.com/kiddiepagee) • [Email](mailto:febriantidlestari@gmail.com)
 
 ---
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=stay_hungry_stay_foolish" />
+<p align="right">
+  <sub><i>"The best way to predict the future is to invent it."</i></sub>
 </p>
