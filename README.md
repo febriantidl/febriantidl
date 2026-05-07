@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&animation=fadeIn" alt="Header" />
-</p>
-
 # 👋 Hi, I'm Febrianti.
 ### `Informatics Engineering Student` | `Future AI/ML Engineer`
 
