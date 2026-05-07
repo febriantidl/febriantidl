@@ -24,9 +24,15 @@ I'm currently focused on bridging the gap between data and intelligent solutions
 ---
 
 ### 📊 github stats
-![Ebi's GitHub stats](https://github-readme-stats.vercel.app/api?username=febriantidl&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=febriantidl&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febriantidl&theme=radical" alt="febriantidl streak stats" />
+</p>
 
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=febriantidl&theme=radical" alt="febriantidl details" />
+</p>
+
+<img src="https://github-readme-stats-git-masterhsthy.vercel.app/api/top-langs/?username=febriantidl&layout=compact&theme=radical" />
 ---
 
 ### 📈 what i'm working on
