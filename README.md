@@ -1,48 +1,47 @@
-# 👋 Hi, I'm Febrianti.
-### `Informatics Engineering Student` | `Future AI/ML Engineer`
+# 👋 Hi, I'm Febrianti
+**Student | Informatics Engineering & Aspiring AI Enthusiast**
 
 ---
 
-## ⚡ / Core Capabilities
-* **Data & Intelligence:** Exploring **Machine Learning**, **Computer Vision**, and **Deep Learning** models.
-* **Technical Stack:** Proficient in **Python** (for data science), **Java**, and **SQL**.
-* **Engineering Lifecycle:** Committed to clean code, systematic documentation, and efficient version control.
+### / About Me
+I am a 2nd-year Informatics Engineering student who is currently diving deep into the world of **Artificial Intelligence**. I have a high curiosity and a strong commitment to learning **AI Data Training** and **Machine Learning** from the ground up.
 
 ---
 
-## 🛠 / Tech Stack
+### / What I'm Currently Learning
+I am currently focusing on building my foundation and various AI certifications:
+* **Data Annotation:** Learning how to label data with high precision (Image & Text).
+* **Python for AI:** Getting comfortable with `Pandas`, `NumPy`, and basic ML libraries.
+* **Database:** Managing structured data using `SQL` (PostgreSQL).
+* **Consistency:** Committing to daily coding and documenting my progress.
+
+---
+
+### / My Sandbox: BeautyHub
+**Skincare Data Project**
+> This is my main project where I practice everything I learn. It’s a work-in-progress platform where I’m trying to organize skincare data and eventually implement a simple AI recommendation system.
+>
+> *Status: Learning, Refactoring, and Building.*
+
+---
+
+### / Progress & Activity
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/SQL-%23CC0000.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://github-readme-stats.vercel.app/api?username=febriantidl&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=555555" height="160" />
 </p>
 
 ---
 
-## 🚀 / Key Project
-### **BeautyHub**
-> A platform dedicated to bridging beauty enthusiasts with data-driven make-up solutions. Currently optimizing the core system to integrate intelligent **AI-based make-up classification**.
-> 
-> `Architecture Design` `Java` `SQL` `Future-ML`
+### / My Learning Notes
+I share my "Aha!" moments and the struggles of learning AI on **Medium**. No expert talk, just an honest student's journey.
+* [Check out my Medium profile](febriantidl.medium.com)
 
 ---
 
-## 📊 / GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats-git-masterhsthy.vercel.app/api?username=febriantidl&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=ffdd54&text_color=555555" width="48%" />
-  <img src="https://github-readme-stats-git-masterhsthy.vercel.app/api/top-langs/?username=febriantidl&layout=compact&theme=transparent&hide_border=true&title_color=007AFF&text_color=555555" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febriantidl&theme=transparent&hide_border=true&title_color=007AFF&fire_color=ffdd54&ring_color=007AFF&sideNums_color=007AFF&sideLabels_color=ffdd54" width="100%" />
-</p>
+### / Contact
+[LinkedIn](https://linkedin.com/in/febriantidl) • [Instagram](https://instagram.com/kiddiepagee)
 
 ---
-
-## 📬 / Connect
-[**LinkedIn**](https://linkedin.com/in/febriantidl) • [**Instagram**](https://instagram.com/kiddiepagee) • [**Portfolio**](https://febriantidl.github.io)
-
 <p align="right">
-  <sub><i>"The best way to predict the future is to invent it."</i></sub>
+  <sub><i>"Building skills, one commit at a time."</i></sub>
 </p>
