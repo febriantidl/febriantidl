@@ -18,8 +18,8 @@ I am currently focusing on building my foundation and various AI certifications:
 ---
 
 ### / My Sandbox: BeautyHub
-**Skincare Data Project**
-> This is my main project where I practice everything I learn. It’s a work-in-progress platform where I’m trying to organize skincare data and eventually implement a simple AI recommendation system.
+**Makeup Data Project**
+> This is my main project where I practice everything I learn. It’s a work-in-progress platform where I’m trying to organize makeup data and eventually implement a simple AI recommendation system.
 >
 > *Status: Learning, Refactoring, and Building.*
 
